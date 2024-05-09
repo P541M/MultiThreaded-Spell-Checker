@@ -1,0 +1,20 @@
+**Instructions**
+1. make
+2. enter your options
+3. please give optimal time for the bubble sort to finish before exiting (typing 2)
+
+everything works as needed
+
+Psalm Eleazar G. Videna
+1218747
+
+### Executing program
+
+* How to build and run the program
+* Step-by-step bullets
+```
+make
+```
+```
+./A2checker
+```
